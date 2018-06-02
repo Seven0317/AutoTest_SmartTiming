@@ -1,0 +1,19 @@
+Performance_100KB: 75.83s
+Performance_60KB: 46.618s
+Polling_default: 28.039s
+PPS96_1: 38.586s
+PPS96_2: 49.838s
+PPS96_3: 23.185s
+PPS97_1: 29.351s
+PPS97_2: 23.681s
+PPS97_3: 23.55s
+Refresh 00 - init + Full FCN_CU_CMCC: 16.019s
+Refresh 00 - init + Full FCN__CMCC_CU: 233.502s
+Refresh 03 - init_CMCC_CU: 22.675s
+Register_3G: 13.164s
+Register_4G: 13.709s
+Timeout_DT: 30times
+Timeout_GI: 8times
+Timeout_SI: 31times
+Average time of pps96: 37.203s
+Average time of pps97: 25.527s

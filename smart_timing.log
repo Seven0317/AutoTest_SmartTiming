@@ -1,0 +1,73 @@
+2018-06-02 23:37:34,649 | fileLogger | INFO | ['aaaaaaa.xti', 'Performance_100KB.xti', 'Performance_60KB.xti', 'Polling_default.xti', 'Polling_default_2.xti', 'PPS96_1.xti', 'PPS96_2.xti', 'PPS96_3.xti', 'PPS97_1.xti', 'PPS97_2.xti', 'PPS97_3.xti', 'Refresh 00 - init + Full FCN_CU_CMCC.xti', 'Refresh 00 - init + Full FCN__CMCC_CU.xti', 'Refresh 03 - init_CMCC_CU.xti', 'Register_3G.xti', 'Register_4G.xti', 'Timeout_DT.xti', 'Timeout_GI.xti', 'Timeout_SI.xti']
+2018-06-02 23:37:34,650 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:34,650 | fileLogger | INFO | Cannot match trace name 'aaaaaaa.xti' with operated file.
+2018-06-02 23:37:34,651 | fileLogger | INFO | Please check trace name and be sure the naming is lawful.
+2018-06-02 23:37:34,651 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:35,360 | fileLogger | INFO | Time stamp of close channel : 1527146464382
+2018-06-02 23:37:35,360 | fileLogger | INFO | Time stamp of open channel : 1527146388552
+2018-06-02 23:37:35,376 | fileLogger | INFO | Performance_100KB.xti : 75.830 s
+2018-06-02 23:37:35,379 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:35,938 | fileLogger | INFO | Time stamp of close channel : 1527146858814
+2018-06-02 23:37:35,954 | fileLogger | INFO | Time stamp of open channel : 1527146812196
+2018-06-02 23:37:35,954 | fileLogger | INFO | Performance_60KB.xti : 46.618 s
+2018-06-02 23:37:35,957 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:36,280 | fileLogger | INFO | Time stamp of first SW : 1525664151846
+2018-06-02 23:37:36,280 | fileLogger | INFO | Time stamp of second SW : 1525664179885
+2018-06-02 23:37:36,287 | fileLogger | INFO | Polling_default.xti : 28.039 s
+2018-06-02 23:37:36,294 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:36,295 | fileLogger | INFO | Failed to parse Polling_default_2.xti .
+2018-06-02 23:37:36,295 | fileLogger | INFO | Cannot work out the time and please check trace manually.
+2018-06-02 23:37:36,298 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:36,541 | fileLogger | INFO | Time stamp of ATR : 1526362790543
+2018-06-02 23:37:36,541 | fileLogger | INFO | Time stamp of last command before continuous SW : 1526362829129
+2018-06-02 23:37:36,549 | fileLogger | INFO | PPS96_1.xti : 38.586 s
+2018-06-02 23:37:36,555 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:36,854 | fileLogger | INFO | Time stamp of ATR : 1526363158123
+2018-06-02 23:37:36,854 | fileLogger | INFO | Time stamp of last command before continuous SW : 1526363207961
+2018-06-02 23:37:36,854 | fileLogger | INFO | PPS96_2.xti : 49.838 s
+2018-06-02 23:37:36,867 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:37,056 | fileLogger | INFO | Time stamp of ATR : 1526363527672
+2018-06-02 23:37:37,072 | fileLogger | INFO | Time stamp of last command before continuous SW : 1526363550857
+2018-06-02 23:37:37,072 | fileLogger | INFO | PPS96_3.xti : 23.185 s
+2018-06-02 23:37:37,075 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:37,277 | fileLogger | INFO | Time stamp of ATR : 1526363785747
+2018-06-02 23:37:37,279 | fileLogger | INFO | Time stamp of last command before continuous SW : 1526363815098
+2018-06-02 23:37:37,280 | fileLogger | INFO | PPS97_1.xti : 29.351 s
+2018-06-02 23:37:37,282 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:37,557 | fileLogger | INFO | Time stamp of ATR : 1526364128947
+2018-06-02 23:37:37,570 | fileLogger | INFO | Time stamp of last command before continuous SW : 1526364152628
+2018-06-02 23:37:37,571 | fileLogger | INFO | PPS97_2.xti : 23.681 s
+2018-06-02 23:37:37,573 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:37,831 | fileLogger | INFO | Time stamp of ATR : 1526364431888
+2018-06-02 23:37:37,836 | fileLogger | INFO | Time stamp of last command before continuous SW : 1526364455438
+2018-06-02 23:37:37,837 | fileLogger | INFO | PPS97_3.xti : 23.550 s
+2018-06-02 23:37:37,842 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:38,127 | fileLogger | INFO | Time stamp of 'Fetch refresh' : 1490590025046
+2018-06-02 23:37:38,129 | fileLogger | INFO | Time stamp of Authentication : 1490590041065
+2018-06-02 23:37:38,129 | fileLogger | INFO | Refresh 00 - init + Full FCN_CU_CMCC.xti : 16.019 s
+2018-06-02 23:37:38,131 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:38,623 | fileLogger | INFO | Time stamp of 'Fetch refresh' : 1502697782951
+2018-06-02 23:37:38,626 | fileLogger | INFO | Time stamp of Authentication : 1502698016453
+2018-06-02 23:37:38,627 | fileLogger | INFO | Refresh 00 - init + Full FCN__CMCC_CU.xti : 233.502 s
+2018-06-02 23:37:38,632 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:38,978 | fileLogger | INFO | Time stamp of 'Fetch refresh' : 1490593773812
+2018-06-02 23:37:38,980 | fileLogger | INFO | Time stamp of Authentication : 1490593796487
+2018-06-02 23:37:38,981 | fileLogger | INFO | Refresh 03 - init_CMCC_CU.xti : 22.675 s
+2018-06-02 23:37:38,983 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:39,235 | fileLogger | INFO | Time stamp of ATR : 1526365425257
+2018-06-02 23:37:39,249 | fileLogger | INFO | Time stamp of Authentication : 1526365438421
+2018-06-02 23:37:39,250 | fileLogger | INFO | Register_3G.xti : 13.164 s
+2018-06-02 23:37:39,253 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:39,452 | fileLogger | INFO | Time stamp of ATR : 1526364826403
+2018-06-02 23:37:39,453 | fileLogger | INFO | Time stamp of Authentication : 1526364840112
+2018-06-02 23:37:39,453 | fileLogger | INFO | Register_4G.xti : 13.709 s
+2018-06-02 23:37:39,460 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:39,658 | fileLogger | INFO | Timeout_DT.xti fetch times : 30 times
+2018-06-02 23:37:39,664 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:39,746 | fileLogger | INFO | Timeout_GI.xti fetch times : 8 times
+2018-06-02 23:37:39,760 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:40,026 | fileLogger | INFO | Timeout_SI.xti fetch times : 31 times
+2018-06-02 23:37:40,042 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:40,042 | fileLogger | INFO | Average time of pps96 : 37.203 s
+2018-06-02 23:37:40,043 | fileLogger | INFO | **********************************************************
+2018-06-02 23:37:40,045 | fileLogger | INFO | Average time of pps97 : 25.527 s
